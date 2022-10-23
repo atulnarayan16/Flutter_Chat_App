@@ -1,6 +1,6 @@
-# newchatapp
+# Chat Application
 
-A new Flutter project.
+A Chat Application made by using Flutter and Firebase.
 
 ## Getting Started
 
